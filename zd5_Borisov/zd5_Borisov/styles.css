@@ -1,0 +1,19 @@
+﻿﻿label {
+    font-size: 16;
+    color: white;
+}
+
+button {
+    background-color: #E53935;
+    color: white;
+    font-size: medium;
+    font-style: bold;
+    padding: 10;
+    border-radius: 4;
+}
+
+#header {
+    font-size: 22;
+    font-style: bold;
+    color: white;
+}
